@@ -1,9 +1,13 @@
-# API demo
+# GWAS Catalog REST API Workshop
 
-This is a really short demo on how the API workshop could go.
+This repository contains training materials for the GWAS Catalog REST API workshop. This workshop provides examples on how to extract data from the GWAS Catalog for the most frequent use cases. For the complete documentation see API documentation on the GWAS Catalog website: [https://www.ebi.ac.uk/gwas/rest/docs/api](https://www.ebi.ac.uk/gwas/rest/docs/api)
+
+### Contents:
+
+* **slides**: the REST API presentation material
+* **notebooks**: jupyter notebooks containing interactive code examples to demonstrate how to extract and parse data from the GWAS Catalog REST API. 
 
 ## Startup
-
 
 ### 1. If Python and Jupyter available on local machine
 
@@ -11,7 +15,6 @@ Clone repository to local folder. Start up jupyter notebook and open the worksho
 
 ```bash
 git clone https://github.com/EBISPOT/GWAS_Catalog-workshop 
-cd workshopDemo
 jupyter notebook
 ```
 
@@ -27,4 +30,6 @@ Publicly stored Jupyter notebooks can be uploaded and run on a remote server hos
 After the first build a direct link can also be used to access the virtual environment: 
 `https://mybinder.org/v2/gh/DSuveges/workshopDemo/master?filepath=demo_1.ipynb`
 
-No modification will be saved in the repository, so ther's no need to be careful! :D 
+No modification will be saved in the repository, so there is no need to be careful! Have fun! 
+
+We would love to hear feedback from you! Please send your comments to [gwas-info@ebi.ac.uk](gwas-info@ebi.ac.uk)
