@@ -10,7 +10,7 @@ This is a really short demo on how the API workshop could go.
 Clone repository to local folder. Start up jupyter notebook and open the workshop notebook.
 
 ```bash
-git clone https://github.com/DSuveges/workshopDemo
+git clone https://github.com/EBISPOT/GWAS_Catalog-workshop 
 cd workshopDemo
 jupyter notebook
 ```
@@ -20,7 +20,7 @@ jupyter notebook
 Publicly stored Jupyter notebooks can be uploaded and run on a remote server hosed by [Binder](https://mybinder.org/). The required Python packages are read from the `requirements.txt` file. Upon the first build the required packages will be installed subsequent startups will be faster. 
 
 1. Go to [Binder](https://mybinder.org/)
-2. For the github repository name provide this repository: `https://github.com/DSuveges/workshopDemo`
+2. For the github repository name provide this repository: `https://github.com/EBISPOT/GWAS_Catalog-workshop`
 3. Path to a notebook file is `demo_1.ipynb`
 4. Click `Launch`
 
