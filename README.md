@@ -28,7 +28,7 @@ Publicly stored Jupyter notebooks can be uploaded and run on a remote server hos
 4. Click `Launch`
 
 After the first build a direct link can also be used to access the virtual environment: 
-`https://mybinder.org/v2/gh/DSuveges/workshopDemo/master?filepath=demo_1.ipynb`
+`https://mybinder.org/v2/gh/EBISPOT/GWAS_Catalog-workshop/master?filepath=notebooks%2Fworkshop_01.ipynb`
 
 No modification will be saved in the repository, so there is no need to be careful! Have fun! 
 
