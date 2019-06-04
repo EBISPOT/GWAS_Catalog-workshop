@@ -18,6 +18,7 @@ git clone https://github.com/EBISPOT/GWAS_Catalog-workshop
 cd GWAS_Catalog-workshop/notebooks
 jupyter notebook
 ```
+Then load the notebook of your interest.
 
 ### 2. If user has Google account
 
