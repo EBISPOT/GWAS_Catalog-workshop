@@ -1,6 +1,6 @@
 # Workshop presentation materials.
 
-## Outline of API_slides.pptx presentation
+## Outline of API_slides.pdf presentation
 
 This presentation covers the following items:
 
