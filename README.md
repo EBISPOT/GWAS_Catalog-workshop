@@ -46,20 +46,23 @@ No modification will be saved, so there is no need to be careful! Have fun!
 
 * Contains a short description of the returned data of the API. 
 * Basic use-cases to fetch association data from the GWAS Catalog REST API.
-* 
+
+### workshop_02.ipynb
+
+* Introductory exercise to the GWAS Catalog's summary statistics API.
 
 ## Links
 
-[GWAS Catalog REST API](https://www.ebi.ac.uk/gwas/rest/api)
-[GWAS Catalog REST API documentation](https://www.ebi.ac.uk/gwas/rest/docs)
-[GWAS Catalog Summary Statistics REST API](https://www.ebi.ac.uk/gwas/summary-statistics/api)
-[GWAS Catalog Summary Statistics REST API documentation](https://www.ebi.ac.uk/gwas/summary-statistics/docs/)
+* [GWAS Catalog REST API](https://www.ebi.ac.uk/gwas/rest/api)
+* [GWAS Catalog REST API documentation](https://www.ebi.ac.uk/gwas/rest/docs)
+* [GWAS Catalog Summary Statistics REST API](https://www.ebi.ac.uk/gwas/summary-statistics/api)
+* [GWAS Catalog Summary Statistics REST API documentation](https://www.ebi.ac.uk/gwas/summary-statistics/docs/)
 
 **Other readings:**
 
-Jupyter notebook tutorial: [link](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
-Binder documentation: [link](https://mybinder.readthedocs.io/en/latest/)
-Opening Jupyter notebooks hosted on github via Google colab: [link](https://medium.com/@steve7an/how-to-test-jupyter-notebook-from-github-via-google-colab-7dc4b9b11a19)
+* Jupyter notebook tutorial: [link](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+* Binder documentation: [link](https://mybinder.readthedocs.io/en/latest/)
+* Opening Jupyter notebooks hosted on github via Google colab: [link](https://medium.com/@steve7an/how-to-test-jupyter-notebook-from-github-via-google-colab-7dc4b9b11a19)
 
 ## Feedback
 
