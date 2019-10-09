@@ -45,9 +45,13 @@ No modification will be saved, so there is no need to be careful! Have fun!
 ### workshop_01.ipynb
 
 * Contains a short description of the returned data of the API. 
-* Basic use-cases to fetch association data from the GWAS Catalog REST API.
+* Basic use-cases to fetch association data from the GWAS Catalog REST API and Summary Statistics API.
 
-### workshop_02.ipynb
+### gwas_cat_rest.ipynb
+
+* Basic use-cases to fetch association data from the GWAS Catalog REST API
+
+### sumstats_rest.ipynb
 
 * Introductory exercise to the GWAS Catalog's summary statistics API.
 
