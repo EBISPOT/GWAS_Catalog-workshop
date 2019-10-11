@@ -1,6 +1,6 @@
-# GWAS Catalog REST API Workshop
+# GWAS Catalog and Summary Statistics REST API Workshop
 
-This repository contains training materials for the GWAS Catalog REST API workshop. This workshop provides examples on how to extract data from the GWAS Catalog for the most frequent use cases. For the complete documentation see API documentation on the GWAS Catalog website: [https://www.ebi.ac.uk/gwas/rest/docs/api](https://www.ebi.ac.uk/gwas/rest/docs/api)
+This repository contains training materials for the GWAS Catalog and Summary Statistics REST API workshop. This workshop provides examples on how to extract data from the GWAS Catalog for the most frequent use cases. For the complete documentation see API documentation: [GWAS Catalog REST API documentation](https://www.ebi.ac.uk/gwas/rest/docs/api) and [GWAS Catalog Summary Statistics REST API documentation](https://www.ebi.ac.uk/gwas/summary-statistics/docs/)
 
 ### Repository contents:
 
