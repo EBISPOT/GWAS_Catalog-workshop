@@ -1,5 +1,9 @@
 # GWAS Catalog and Summary Statistics REST API Workshop
 
+> [!WARNING]
+> These APIs are retired as of 2026 and are no longer supported.
+> Do not use them for new integrations.
+
 This repository contains training materials for the GWAS Catalog and Summary Statistics REST API workshop. This workshop provides examples on how to extract data from the GWAS Catalog for the most frequent use cases. For the complete documentation see API documentation: [GWAS Catalog REST API documentation](https://www.ebi.ac.uk/gwas/rest/docs/api) and [GWAS Catalog Summary Statistics REST API documentation](https://www.ebi.ac.uk/gwas/summary-statistics/docs/)
 
 ### Repository contents:
